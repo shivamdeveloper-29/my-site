@@ -1,0 +1,136 @@
+.me-img{
+    height: 400px;
+    width: 700px;
+}
+
+.my-row{
+    background-color: rgba(0, 0, 0, 0.368);
+}
+
+.mi-row{
+    background-color: #3f1952;
+}
+
+.car-img{
+    height: 250px;
+    width: 400px;
+}
+
+.crd-bdy{
+    margin-top: 13px;
+    margin-left: 10px;
+    width: 400px;
+    height: 250px;
+}
+
+.crd-image{
+    height: 650px;
+    width: 400px;
+}
+
+.my-btn{
+    margin-left: 100px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: red;
+    border: none;
+}
+
+.my-btn:hover{
+    background-color: black;
+}
+
+.crd-div{
+    height: 650px;
+}
+
+.ist-ock{
+    height: 300px;
+    width: 750px;
+}
+
+.red-car{
+    height: 300px;
+    width: 340px;
+    margin-top: 20px;
+}
+
+.border-div{
+    width: 480px;
+}
+
+.my-input{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 150px;
+    border: none;
+}
+
+.subscribe-inp{
+    padding-right: 30px;
+}
+
+.icon-img{
+    height: 30px;
+}
+
+.ornge-img{
+    height: 500px;
+    width: 600px;
+}
+
+.event-pic{
+    height: 250px;
+    width: 400px;
+}
+
+.event-div{
+    width: 400px;
+}
+
+.my-race{
+    height: 400px;
+    width: 100%;
+}
+
+.black-tshirt{
+    height: 300px;
+    width: 600px;
+}
+
+.my-pr{
+    height: 600px;
+    width: 600px;
+}
+
+.my-bg{
+    background-color: red;
+}
+
+.f1-img{
+    height: 400px;
+    width: 1240px;
+}
+
+.mst-img{
+    height: 800px;
+    width: 800px;
+}
+
+.cn-tru{
+    height: 500px;
+    width: 1240px;
+}
+
+.mit-img{
+    height: 500px;
+    width: 700px;
+}
+
+.cn-car{
+    height: 600px;
+    width: 1240px;
+}
